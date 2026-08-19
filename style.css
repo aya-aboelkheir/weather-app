@@ -146,7 +146,7 @@ body{
         font-size: 12px;
     }
 }
-@media (max-width:500) {
+@media (max-width: 500px) {
     body{
         background-color: red;
     }
